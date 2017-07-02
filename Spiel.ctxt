@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Spiel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Spiel\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n1\ n2\ n\ gD
+comment1.target=Spiel(java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=Spiel\ getInstance()
+comment2.params=punkt
+comment2.target=void\ klickReagieren(ea.Punkt)
+comment3.params=c
+comment3.target=void\ tasteReagieren(int)
+comment4.params=
+comment4.target=int\ getSpalte()
+comment5.params=gewinner
+comment5.target=void\ gameOver(java.lang.String)
+comment6.params=
+comment6.target=int\ getspielfeldB()
+comment7.params=
+comment7.target=java.lang.String\ getsDesign1()
+comment8.params=
+comment8.target=java.lang.String\ getsDesign2()
+comment9.params=
+comment9.target=java.lang.String\ XoderO()
+numComments=11

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SpielfeldDesign
+comment1.params=anzahl\ g\ SpielfeldL\ SpielfeldB
+comment1.target=SpielfeldDesign(int,\ ea.Game,\ int,\ int)
+numComments=2
